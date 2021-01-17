@@ -1,0 +1,45 @@
+[33mcommit 36143294b216b7210e2ee5948c78725503a5b7ca[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: jbf-insidesherpa <54832297+jbf-insidesherpa@users.noreply.github.com>
+Date:   Mon Nov 25 09:24:48 2019 +0800
+
+    Update README (setupv6)
+
+[33mcommit 2b1660551c858f853061231a7764cc4762f7789f[m
+Author: jbf-insidesherpa <54832297+jbf-insidesherpa@users.noreply.github.com>
+Date:   Wed Nov 20 10:38:43 2019 +0800
+
+    Update README (setupv5a+mchangesv4a)
+
+[33mcommit 6e330b28e7e2a739e8018c3a9b230acacb1093e7[m
+Author: jbf-insidesherpa <54832297+jbf-insidesherpa@users.noreply.github.com>
+Date:   Mon Nov 4 22:51:38 2019 +0800
+
+    Update README
+    
+    - update links
+
+[33mcommit d432ed5559ff467f5ef1e40ce926b88942f5eb47[m
+Author: jbf-insidesherpa <54832297+jbf-insidesherpa@users.noreply.github.com>
+Date:   Thu Oct 31 15:18:18 2019 +0800
+
+    Update README
+    
+    - copy similar updates on READ of python 2 version of repo
+
+[33mcommit 6fd50fbdbc8ec90913cad7a206650d0b2a657a0b[m
+Author: Joe Ferrer <joe@insidesherpa.com>
+Date:   Thu Oct 31 09:23:43 2019 +0800
+
+    Fix client_test import of client3.py
+
+[33mcommit d68dd5816bd90f791b095de5a5fe5fab73665d3d[m
+Author: jbf-insidesherpa <54832297+jbf-insidesherpa@users.noreply.github.com>
+Date:   Wed Oct 30 11:34:08 2019 +0800
+
+    Update README (use python3)
+
+[33mcommit 5d3a2a37daeb9d7439dc0f2f7ef291e2fb6f51d2[m
+Author: Joe Ferrer <joe@insidesherpa.com>
+Date:   Fri Oct 25 13:28:54 2019 +0800
+
+    INIT
