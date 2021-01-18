@@ -1,0 +1,144 @@
+From f8765747d53356c08691536b6c82afcb42a9380f Mon Sep 17 00:00:00 2001
+From: SShneider <shneider.s@gmail.com>
+Date: Sun, 17 Jan 2021 18:56:24 -0500
+Subject: [PATCH] created
+
+---
+ .../__pycache__/client3.cpython-38.pyc        | Bin 0 -> 1125 bytes
+ .../__pycache__/client3.cpython-39.pyc        | Bin 0 -> 1121 bytes
+ JPMC-tech-task-1-py3/client3.py               |   8 ++++++--
+ JPMC-tech-task-1-py3/client_test.py           |  19 ++++++++++++++----
+ 4 files changed, 21 insertions(+), 6 deletions(-)
+ create mode 100644 JPMC-tech-task-1-py3/__pycache__/client3.cpython-38.pyc
+ create mode 100644 JPMC-tech-task-1-py3/__pycache__/client3.cpython-39.pyc
+
+diff --git a/JPMC-tech-task-1-py3/__pycache__/client3.cpython-38.pyc b/JPMC-tech-task-1-py3/__pycache__/client3.cpython-38.pyc
+new file mode 100644
+index 0000000000000000000000000000000000000000..d3f80833cc3bac8cfbae43807dde6acbe3efd0a9
+GIT binary patch
+literal 1125
+zcmYjQOK%%D5GHrItCcM!PW)7IVFCoLfH-#ROCY4p!*&W3ZQwY_A%ug?S{%u1uXbfF
+zRm7@%Qhtbh%<l-$Ll5}@yyoP4PPw#0$~Hn`o*d2&znOhqug?%%GoRVJPgO#`SmXPJ
+zKJo;q{1=%dl4e9uCq3ag=?mXUCYba@Abk-^CW8+|RAeYCC?lxK=*Uz5zzobnIHqH|
+zMc%#_HSi~OpoiBc*CCk90h_Qhaz@YS<c5{vW=h07+{D;*u>ciV7}Gr_7R8cS7Avp<
+z^RW1cKtonx5td*XRyu5nj436@@6kI05zNck20>nHkg<1h_J^deNV9&9?;$UScMi1f
+zx7OCOqMc+1MX6g4*B`F09S=aAJWk~=f1jpbDIsm7s}-QekT#LZC&)&KOM{$JZ8fh!
+zq>taDr=GLfmF<tbk-to2aGRX65w+Hcbr@C?4qJRj6>`u9o@5y>I$R$B&jBPz{#TL>
+zpyayXUC2Qt8iTk@bkZ-<TyqnYx@aGniZ1%`ekx7SS7{rjc2XXldst$VnxK;viEaia
+zI35%lly#dbUWljhRg9gg%D(O+QL`w%{k+}U>#L%xl3p*(yL-Ry{Ap=(RYUt=RpX`A
+zpH}-P8++|6g<Nku=%1Kc7xWeuxZ?`METx+=KcaKEYgE<I*R};*E~{H|m@c3)qLSjw
+z)TH+cQ616S1ab0*clmFiIbx6&7A04CobV)<7y3R|wpZu>;c^dXdZKa>cB$;UgDI<F
+zu!*qVU7NFsRv98AETW96>+Up;dr6wd@$iS27CFi9l|0e>N5rmmue{F@11H^QP-_k&
+zmkr~L|Mc0W@wc|0H*bk+1C?dz{sRR#U!@k|)HY0~JrL}$EOHYnd`r<2!OPd%yKfAA
+z;jp?YBu{z}$A+cYKoekW7YvO}fUT9Ks9a{QVCJF^n66W(UZM?CkVq4{&X*!|m6j^P
+z=eaph_CHs)Nv`*9gmV2IOm-C16st!)9MlYcT|`&Okww&PpZUy-s<{0*%6*33Iiw};
+Ee;1-1rvLx|
+
+literal 0
+HcmV?d00001
+
+diff --git a/JPMC-tech-task-1-py3/__pycache__/client3.cpython-39.pyc b/JPMC-tech-task-1-py3/__pycache__/client3.cpython-39.pyc
+new file mode 100644
+index 0000000000000000000000000000000000000000..73d5d46832df3836aa54b0aa64d642d8aa6ff188
+GIT binary patch
+literal 1121
+zcmYjQ&2Aev5GHrItCcOeZv3m{!WIZx0d?#)mq19HG`3TqXbmSp4kcV{X>lZPyxNty
+zR1vH4NqG?Y*eB?<ryTMKyyld9PCa!<*+xjrFNd?kZ)Rn)xj=9|`G@`SZ=I0$&iHhp
+zk32@I-XT*&(VPhCWgr4CLlJt(1XF>CR48J_RP=_3nu=8oWde1ToCf+WEWjefQ#z%4
+z<oDO20pY9(^wrYrGl*u(z-H`{T+&NA``k%!D<fhBZei?>ScMv_PU#U7Yhqn&h)vjp
+z6<B*nprz`t2J5f^n?1Hprj(Mi*XUh<1Xk2yiy&{b$TYY*`$f?gq}}|0?;!`{FHVdZ
+zcDA?kvMckGvND|qI}diY&qkonA7$$Mzb>+ml#njc&5BTCNV`bYV`LM=rA02NaazzK
+zD#Y*6i@@9L#ttXJB-|h>x<fA5ggR@&dJL<H#~psCOEu~OmwC?19ycez3jhU*|0(kk
+zRNR!j4+UsxFo-K@<gm;N!);WVvU_T4rW~fnnX=JPXI+@vvO4_`V2N#Nqh4N0(~fL(
+zHYyEh=eBjckj~@l7&}+Bd)?neFQWMGyZz45P?voz2ZOBWAN_pztE1g51KpD?gO|3x
+z-5Q?XKkDWg6z2ZD;kj+}!R%pyhrU3}Qu!$h6S|DML3I;-U01;Ma=Igr=_)D{swmD(
+zLj^Ao)d{^r5T|hbCI1NwM+~ykq2w!1C6|S|(vP`zy*lv4w*yhT3b|H}{lT0yFwiDg
+z>vNZ{jaC&SBP^ke>Lq`grURK3X*&MunL|zSyA_v)e~q|x?pEJ$e7~3eGpM!4iO+^{
+zHvI9)t_}D0pSEv{rIF6_?D(DroUO`;cy3!}vH=M8swxW+YkWsJ5Ye-j`_F%~^uXhE
+zQ%E5PkfxSp*gP9yY#%I5ZG>%Am8e~3u3_eK2!)M%r5;FQnFgtB?7Lox*jHNV1fS<;
+zK)Zijy9W8b`|&BvCos7&&~vOF4sb|w_+brQ6-Sm(ze5(XAgSXHmnjb!dY6&bgZ}}K
+C3K+Nm
+
+literal 0
+HcmV?d00001
+
+diff --git a/JPMC-tech-task-1-py3/client3.py b/JPMC-tech-task-1-py3/client3.py
+index b457d45..b219b96 100644
+--- a/JPMC-tech-task-1-py3/client3.py
++++ b/JPMC-tech-task-1-py3/client3.py
+@@ -35,13 +35,15 @@ def getDataPoint(quote):
+ 	stock = quote['stock']
+ 	bid_price = float(quote['top_bid']['price'])
+ 	ask_price = float(quote['top_ask']['price'])
+-	price = ask_price
++	price = (bid_price+ask_price)/2
+ 	return stock, bid_price, ask_price, price
+ 
+ def getRatio(price_a, price_b):
+ 	""" Get ratio of price_a and price_b """
+ 	""" ------------- Update this function ------------- """
+ 	""" Also create some unit tests for this function in client_test.py """
++	if price_b == 0:
++		return -1
+ 	return price_a/price_b
+ 
+ # Main
+@@ -52,8 +54,10 @@ if __name__ == "__main__":
+ 		quotes = json.loads(urllib.request.urlopen(QUERY.format(random.random())).read())
+ 
+ 		""" ----------- Update to get the ratio --------------- """
++		prices = {}
+ 		for quote in quotes:
+ 			stock, bid_price, ask_price, price = getDataPoint(quote)
++			prices[stock] = price
+ 			print ("Quoted %s at (bid:%s, ask:%s, price:%s)" % (stock, bid_price, ask_price, price))
+ 
+-		print ("Ratio %s" % getRatio(ask_price, bid_price))
++		print ("Ratio %s" % getRatio(prices['ABC'], prices['DEF']))
+diff --git a/JPMC-tech-task-1-py3/client_test.py b/JPMC-tech-task-1-py3/client_test.py
+index af2bf26..4ad364d 100644
+--- a/JPMC-tech-task-1-py3/client_test.py
++++ b/JPMC-tech-task-1-py3/client_test.py
+@@ -1,5 +1,6 @@
+ import unittest
+-from client3 import getDataPoint
++import random
++from client3 import getDataPoint, getRatio
+ 
+ class ClientTest(unittest.TestCase):
+   def test_getDataPoint_calculatePrice(self):
+@@ -8,6 +9,8 @@ class ClientTest(unittest.TestCase):
+       {'top_ask': {'price': 121.68, 'size': 4}, 'timestamp': '2019-02-11 22:06:30.572453', 'top_bid': {'price': 117.87, 'size': 81}, 'id': '0.109974697771', 'stock': 'DEF'}
+     ]
+     """ ------------ Add the assertion below ------------ """
++    for quote in quotes:
++      self.assertEqual(getDataPoint(quote), (quote['stock'], quote['top_bid']['price'], quote['top_ask']['price'], (quote['top_bid']['price']+quote['top_ask']['price'])/2))
+ 
+   def test_getDataPoint_calculatePriceBidGreaterThanAsk(self):
+     quotes = [
+@@ -15,11 +18,19 @@ class ClientTest(unittest.TestCase):
+       {'top_ask': {'price': 121.68, 'size': 4}, 'timestamp': '2019-02-11 22:06:30.572453', 'top_bid': {'price': 117.87, 'size': 81}, 'id': '0.109974697771', 'stock': 'DEF'}
+     ]
+     """ ------------ Add the assertion below ------------ """
+-
++    for quote in quotes:
++      self.assertEqual(getDataPoint(quote), (quote['stock'], quote['top_bid']['price'], quote['top_ask']['price'], (quote['top_bid']['price']+quote['top_ask']['price'])/2))
+ 
+   """ ------------ Add more unit tests ------------ """
+-
+-
++  def test_getRatio_correctDivision(self):
++    i = 99
++    while i>0:
++        a = random.randrange(1, 999)
++        b = random.randrange(1, 999)
++        self.assertEqual(getRatio(a, b), a/b)
++        i-=1
++  def test_getRatio_divideByZero(self):
++    self.assertEqual(getRatio(1, 0), -1)
+ 
+ if __name__ == '__main__':
+     unittest.main()
+-- 
+2.29.2.windows.3
+
